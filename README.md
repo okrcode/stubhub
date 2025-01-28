@@ -1,4 +1,4 @@
-# Booking.com Scraper
+# Stubhub.com Scraper
 
 This Python script scrapes ticket details data from stubhub.com, specifically focusing on details such as zone, section,price and images. The data is saved in a csv format.
 
