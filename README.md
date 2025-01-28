@@ -43,7 +43,7 @@ python tickets1.py
 ```
 
 
-- After execution, the data will be saved in a JSON file called scraped_data.csv in the same directory as the script.
+- After execution, the data will be saved in a csv file called scraped_data.csv in the same directory as the script.
 
 
 
